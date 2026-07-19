@@ -1,3 +1,4 @@
+<img width="400" height="229" alt="madakitesasakisann" src="https://github.com/user-attachments/assets/9c28d1ac-305d-4da9-83ac-36fa86e167cf" />
 ## Hi there 👋 ╰(*°▽°*)╯
 
 <!--
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1224" height="700" alt="madakitesasakisan" src="https://github.com/user-attachments/assets/dae72e8f-ea10-4b63-ab6d-99bf3ec9c47e" />
+<img width="700" height="330" alt="madakitesasakisan" src="https://github.com/user-attachments/assets/dae72e8f-ea10-4b63-ab6d-99bf3ec9c47e" />
